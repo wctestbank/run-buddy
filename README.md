@@ -12,3 +12,5 @@ https://wctestbank.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by WC
+
+# Run Buddy Inc.
