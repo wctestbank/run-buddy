@@ -1,4 +1,4 @@
-# run-buddy
+# Run Buddy, Inc.
 
 ## Purpose
 A website that offers fitness training services
@@ -13,4 +13,4 @@ https://wctestbank.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by WC
 
-# Run Buddy Inc.
+### ©️2021 Run Buddy, Inc
